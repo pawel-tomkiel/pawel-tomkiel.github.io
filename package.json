@@ -1,0 +1,16 @@
+{
+  "name": "paweltomkiel-website",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "node-sass ./style.scss -o ./"
+  },
+  "author": "Paweł Tomkiel",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14",
+    "bootstrap": "^4.3.1"
+  }
+}
