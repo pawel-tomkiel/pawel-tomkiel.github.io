@@ -667,7 +667,7 @@ img {
 .my-auto {
   margin-bottom: auto !important; }
 
-.text-center {
+section {
   text-align: center !important; }
 
 h3 small {
@@ -798,3 +798,16 @@ h3 {
     font-size: 1.25rem;
     font-weight: 300;
   }
+
+.career-description{
+  text-align: left;
+}
+
+.card{
+  margin-bottom: 48px;
+  margin-top: 48px;
+  margin-left:4px;
+  margin-right:4px;
+  padding:48px;
+  border-color: #f8f9fa;
+}
