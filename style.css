@@ -236,11 +236,11 @@ h4 {
   background-clip: border-box;
   border: 1px solid #f8f9fa;
   border-radius: 0.25rem;
-  margin-bottom: 48px;
-  margin-top: 48px;
-  margin-left: 4px;
-  margin-right: 4px;
-  padding: 48px;
+  margin-bottom: 3rem;
+  margin-top: 3rem;
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+  padding: 3rem;
   box-shadow: 0 16px 32px -8px #373a3c;
 }
 
