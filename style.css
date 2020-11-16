@@ -429,3 +429,7 @@ h4 {
 #contact h3{
   margin-top:3rem;
 }
+
+#tldr ul{
+  text-align: left;
+}
