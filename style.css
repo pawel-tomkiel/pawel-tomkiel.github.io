@@ -433,3 +433,8 @@ h4 {
 #tldr ul{
   text-align: left;
 }
+
+#career img.padded
+{
+  padding:1.5rem;
+}
